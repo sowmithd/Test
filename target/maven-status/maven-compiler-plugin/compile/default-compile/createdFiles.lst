@@ -1,0 +1,4 @@
+controller\PersonController.class
+com\example\Mywebservice01Application.class
+service\PersonService.class
+model\Person.class
